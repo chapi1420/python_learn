@@ -2,7 +2,7 @@
 displays the addition, subtraction, multiplication, and division
 between them.'''
 
-#initialixe two variables to store the two numbers
+#initialize two variables to store the two numbers
 num1 = input("Enter the first number: ")
 num2 = input("Enter the second number: ")
 #convert the input to float
