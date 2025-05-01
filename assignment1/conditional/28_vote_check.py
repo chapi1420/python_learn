@@ -7,7 +7,7 @@ from datetime import date
 YOB = int(input("Enter the year of birth: "))
 
 #compute the age of the person
-age = date.now().year - YOB
+age = date.today().year - YOB
 
 #check if the person is able to vote
 if age>16:
