@@ -12,7 +12,7 @@ while True:
     numbers.append(number)
 
 minim = numbers[0]
-maxim = =numbers[0]
+maxim = numbers[0]
 
 for i in numbers:
     if minim > i:
